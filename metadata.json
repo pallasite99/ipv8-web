@@ -1,0 +1,6 @@
+{
+  "name": "IPv8 Enterprise Protocol",
+  "description": "Next-generation intelligent internet protocol architecture built for AI agents, autonomous systems, edge computing, and quantum-ready infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
